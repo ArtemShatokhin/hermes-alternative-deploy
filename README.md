@@ -66,6 +66,9 @@ The campaign site expands on this repository with sourced comparisons and setup 
 - [Self-hosting walkthrough](https://hermesalternative.com/self-hosting-hermes-alternative)
 - [Migrate from Hermes](https://hermesalternative.com/migrate-from-hermes)
 - [Open source Hermes alternative FAQ](https://hermesalternative.com/faq)
+- [Hermes Agent security](https://hermesalternative.com/hermes-agent-security)
+- [Is Hermes Agent free](https://hermesalternative.com/is-hermes-agent-free)
+- [Hermes Agent use cases](https://hermesalternative.com/hermes-agent-use-cases)
 
 ## Get started
 
